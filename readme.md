@@ -33,8 +33,9 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone <repository_url>
+git clone https://github.com/Kingcollins004/MQTT-test.git
 cd Test Software
+
 2. Create a Virtual Environment
 bash
 Copy code
