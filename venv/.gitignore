@@ -1,0 +1,15 @@
+# Ignore the virtual environment and Python cache files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Do not ignore everything
+!*
+
+# Explicitly include specific directories/files
+!src/
+!src/**
+!tests/
+!tests/**
+!*.md
